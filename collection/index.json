@@ -1,0 +1,56 @@
+{
+  "id": "https://jsbien.github.io/Parkosz4IIIF/collection/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszPWN/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Traktat Parkosza - fotokopia  (1985)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszPWN/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Traktat Parkosza - mikrofilm (2003)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszJBC/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Traktat Parkosza - skan (2018)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszJBC/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "collection"
+    ]
+  }
+}

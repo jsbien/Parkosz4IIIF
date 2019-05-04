@@ -11,7 +11,7 @@
     "postinstall": "npm run sync",
     "sync": "rm -rf uv && cp -R node_modules/universalviewer/dist uv",
     "build": "biiif collection -u http://localhost:8888/collection -g",
-    "dist:gh": "biiif collection -u https://username.github.io/uv-app-starter/collection -g",
+    "dist:gh": "biiif collection -u https://jsbien.github.io/Parkosz4IIIF/collection -g",
     "dist:dat": "biiif collection -u dat://59ff047d6c3eadea7031769479e2aa436c88f046ad16c898577b105000ff85a9/collection -g",
     "publish:gh": "npm run dist:gh && git add -A && git commit -m \"published\" && git push origin gh-pages",
     "publish:dat": "npm run dist:dat",
@@ -24,7 +24,7 @@
   "keywords": [
     "IIIF",
     "universalviewer",
-    "starter" 
+    "starter"
   ],
   "author": "@edsilv",
   "license": "MIT",

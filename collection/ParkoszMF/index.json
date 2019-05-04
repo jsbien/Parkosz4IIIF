@@ -1,0 +1,603 @@
+{
+  "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_01/0010_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 1"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 1"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_01/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_02/0011_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 2"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 2"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_02/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_03/0011_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 3"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 3"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_03/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_04/0012_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 4"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 4"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_04/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_05/0012_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 5"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 5"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_05/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_06/0013_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 6"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 6"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_06/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_07/0013_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 7"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 7"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_07/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/7",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/7/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_08/0014_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 8"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 8"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_08/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/8",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/8/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_09/0014_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 9"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 9"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_09/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/9",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/9/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_10/0015_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 10"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 10"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_10/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/10",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/10/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_11/0015_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 11"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 11"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_11/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/11",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/11/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_12/0016_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 12"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 12"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_12/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/12",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/12/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_13/0016_2R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 13"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 13"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_13/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/13",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/13/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_14/0017_1L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Strona (page) 14"
+                  ]
+                }
+              },
+              "target": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/index.json/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Strona (page) 14"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/_14/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Traktat Parkosza - mikrofilm (2003)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "License"
+        ]
+      },
+      "value": {
+        "@none": [
+          "nie dotyczy oryginału"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Author"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Jakub Parkosz"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Published Date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "XV wiek (ok. 1440)"
+        ]
+      }
+    }
+  ],
+  "attribution": "Biblioteka Jagiellońska (oryginał), Biblioteka Uniwersytecka w Warszawie (skanowanie mikrofilmu), Janusz S. Bień (wersja IIIF)",
+  "description": "Biblioteka Jagiellońska rękopis  Rkps. BJ 1961 „Opera varia“ s. 3-16, mikrofilm BJ 17471 klatki 10-17",
+  "thumbnail": [
+    {
+      "id": "https://jsbien.github.io/Parkosz4IIIF/collection/ParkoszMF/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}

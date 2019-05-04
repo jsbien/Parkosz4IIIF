@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Collection</title>
+    <title>Rękopis traktatu Parkosza</title>
     <link rel="stylesheet" type="text/css" href="uv/uv.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/tachyons/css/tachyons.min.css" />
@@ -17,14 +17,14 @@
 <body>
 
     <nav>
-        <h1>My Collection</h1>
+        <h1>Rękopis traktatu Parkosza</h1>
     </nav>
 
     <main>
 
         <div id="uv" class="uv"></div>
 
-        <iiif-gallery manifest="/collection/index.json"></iiif-gallery>
+        <iiif-gallery manifest="/Parkosz4IIIF/collection/index.json"></iiif-gallery>
 
     </main>
 
@@ -85,12 +85,12 @@
 
             const iiifGallery = document.querySelector('iiif-gallery');
 
-            iiifGallery.addEventListener('onSelectManifest', function (evt) {
+            iiifGallery.addEventListener('selectManifest', function (evt) {
                 manifest = evt.detail.id;
                 openManifest();
             });
 
-            iiifGallery.addEventListener('onSelectCollection', function (evt) {
+            iiifGallery.addEventListener('selectCollection', function (evt) {
                 manifest = evt.detail.id;
                 openManifest();
             });
