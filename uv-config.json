@@ -1,6 +1,6 @@
 {
   "options": {
-    "headerPanelEnabled": false
+    "headerPanelEnabled": true
   },
   "modules": {
     "headerPanel": {
@@ -10,7 +10,7 @@
     },
     "footerPanel": {
       "options": {
-        "downloadEnabled": false
+        "downloadEnabled": true
       }
     }
   }
