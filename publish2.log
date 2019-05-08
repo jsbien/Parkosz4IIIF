@@ -1,0 +1,184 @@
+jsbien@VivoPC-D8:/mnt/MyBookT2/GitHub/Parkosz4IIIF$ npm run publish:gh
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> uv-app-starter@0.0.1 publish:gh /mnt/MyBookT2/GitHub/Parkosz4IIIF
+> npm run dist:gh && git add -A && git commit -m "published" && git push origin gh-pages
+
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> uv-app-starter@0.0.1 dist:gh /mnt/MyBookT2/GitHub/Parkosz4IIIF
+> biiif collection -u https://jsbien.github.io/Parkosz4IIIF/collection -g
+
+started biiifing collection
+creating directory for: collection/ParkoszJBC
+creating canvas for: collection/ParkoszJBC/_01
+creating canvas for: collection/ParkoszJBC/_02
+creating canvas for: collection/ParkoszJBC/_03
+creating canvas for: collection/ParkoszJBC/_04
+creating canvas for: collection/ParkoszJBC/_05
+creating canvas for: collection/ParkoszJBC/_06
+creating canvas for: collection/ParkoszJBC/_07
+creating canvas for: collection/ParkoszJBC/_08
+creating canvas for: collection/ParkoszJBC/_09
+creating canvas for: collection/ParkoszJBC/_10
+creating canvas for: collection/ParkoszJBC/_11
+creating canvas for: collection/ParkoszJBC/_12
+creating canvas for: collection/ParkoszJBC/_13
+creating canvas for: collection/ParkoszJBC/_14
+got metadata for: collection/ParkoszJBC
+got metadata for: collection/ParkoszJBC/_01
+found thumbnail for: collection/ParkoszJBC/_01
+got metadata for: collection/ParkoszJBC/_02
+found thumbnail for: collection/ParkoszJBC/_02
+got metadata for: collection/ParkoszJBC/_03
+found thumbnail for: collection/ParkoszJBC/_03
+got metadata for: collection/ParkoszJBC/_04
+found thumbnail for: collection/ParkoszJBC/_04
+got metadata for: collection/ParkoszJBC/_05
+found thumbnail for: collection/ParkoszJBC/_05
+got metadata for: collection/ParkoszJBC/_06
+found thumbnail for: collection/ParkoszJBC/_06
+got metadata for: collection/ParkoszJBC/_07
+found thumbnail for: collection/ParkoszJBC/_07
+got metadata for: collection/ParkoszJBC/_08
+found thumbnail for: collection/ParkoszJBC/_08
+got metadata for: collection/ParkoszJBC/_09
+found thumbnail for: collection/ParkoszJBC/_09
+got metadata for: collection/ParkoszJBC/_10
+found thumbnail for: collection/ParkoszJBC/_10
+got metadata for: collection/ParkoszJBC/_11
+found thumbnail for: collection/ParkoszJBC/_11
+got metadata for: collection/ParkoszJBC/_12
+found thumbnail for: collection/ParkoszJBC/_12
+got metadata for: collection/ParkoszJBC/_13
+found thumbnail for: collection/ParkoszJBC/_13
+got metadata for: collection/ParkoszJBC/_14
+found thumbnail for: collection/ParkoszJBC/_14
+found thumbnail for: collection/ParkoszJBC
+created index.json for: collection/ParkoszJBC
+created manifest: collection/ParkoszJBC
+creating directory for: collection/ParkoszMF
+creating canvas for: collection/ParkoszMF/_01
+creating canvas for: collection/ParkoszMF/_02
+creating canvas for: collection/ParkoszMF/_03
+creating canvas for: collection/ParkoszMF/_04
+creating canvas for: collection/ParkoszMF/_05
+creating canvas for: collection/ParkoszMF/_06
+creating canvas for: collection/ParkoszMF/_07
+creating canvas for: collection/ParkoszMF/_08
+creating canvas for: collection/ParkoszMF/_09
+creating canvas for: collection/ParkoszMF/_10
+creating canvas for: collection/ParkoszMF/_11
+creating canvas for: collection/ParkoszMF/_12
+creating canvas for: collection/ParkoszMF/_13
+creating canvas for: collection/ParkoszMF/_14
+got metadata for: collection/ParkoszMF
+got metadata for: collection/ParkoszMF/_01
+found thumbnail for: collection/ParkoszMF/_01
+got metadata for: collection/ParkoszMF/_02
+found thumbnail for: collection/ParkoszMF/_02
+got metadata for: collection/ParkoszMF/_03
+found thumbnail for: collection/ParkoszMF/_03
+got metadata for: collection/ParkoszMF/_04
+found thumbnail for: collection/ParkoszMF/_04
+got metadata for: collection/ParkoszMF/_05
+found thumbnail for: collection/ParkoszMF/_05
+got metadata for: collection/ParkoszMF/_06
+found thumbnail for: collection/ParkoszMF/_06
+got metadata for: collection/ParkoszMF/_07
+found thumbnail for: collection/ParkoszMF/_07
+got metadata for: collection/ParkoszMF/_08
+found thumbnail for: collection/ParkoszMF/_08
+got metadata for: collection/ParkoszMF/_09
+found thumbnail for: collection/ParkoszMF/_09
+got metadata for: collection/ParkoszMF/_10
+found thumbnail for: collection/ParkoszMF/_10
+got metadata for: collection/ParkoszMF/_11
+found thumbnail for: collection/ParkoszMF/_11
+got metadata for: collection/ParkoszMF/_12
+found thumbnail for: collection/ParkoszMF/_12
+got metadata for: collection/ParkoszMF/_13
+found thumbnail for: collection/ParkoszMF/_13
+got metadata for: collection/ParkoszMF/_14
+found thumbnail for: collection/ParkoszMF/_14
+found thumbnail for: collection/ParkoszMF
+created index.json for: collection/ParkoszMF
+created manifest: collection/ParkoszMF
+creating directory for: collection/ParkoszPWN
+creating canvas for: collection/ParkoszPWN/_01
+creating canvas for: collection/ParkoszPWN/_02
+creating canvas for: collection/ParkoszPWN/_03
+creating canvas for: collection/ParkoszPWN/_04
+creating canvas for: collection/ParkoszPWN/_05
+creating canvas for: collection/ParkoszPWN/_06
+creating canvas for: collection/ParkoszPWN/_07
+creating canvas for: collection/ParkoszPWN/_08
+creating canvas for: collection/ParkoszPWN/_09
+creating canvas for: collection/ParkoszPWN/_10
+creating canvas for: collection/ParkoszPWN/_11
+creating canvas for: collection/ParkoszPWN/_12
+creating canvas for: collection/ParkoszPWN/_13
+creating canvas for: collection/ParkoszPWN/_14
+got metadata for: collection/ParkoszPWN
+got metadata for: collection/ParkoszPWN/_01
+found thumbnail for: collection/ParkoszPWN/_01
+got metadata for: collection/ParkoszPWN/_02
+found thumbnail for: collection/ParkoszPWN/_02
+got metadata for: collection/ParkoszPWN/_03
+found thumbnail for: collection/ParkoszPWN/_03
+got metadata for: collection/ParkoszPWN/_04
+found thumbnail for: collection/ParkoszPWN/_04
+got metadata for: collection/ParkoszPWN/_05
+found thumbnail for: collection/ParkoszPWN/_05
+got metadata for: collection/ParkoszPWN/_06
+found thumbnail for: collection/ParkoszPWN/_06
+got metadata for: collection/ParkoszPWN/_07
+found thumbnail for: collection/ParkoszPWN/_07
+got metadata for: collection/ParkoszPWN/_08
+found thumbnail for: collection/ParkoszPWN/_08
+got metadata for: collection/ParkoszPWN/_09
+found thumbnail for: collection/ParkoszPWN/_09
+got metadata for: collection/ParkoszPWN/_10
+found thumbnail for: collection/ParkoszPWN/_10
+got metadata for: collection/ParkoszPWN/_11
+found thumbnail for: collection/ParkoszPWN/_11
+got metadata for: collection/ParkoszPWN/_12
+found thumbnail for: collection/ParkoszPWN/_12
+got metadata for: collection/ParkoszPWN/_13
+found thumbnail for: collection/ParkoszPWN/_13
+got metadata for: collection/ParkoszPWN/_14
+found thumbnail for: collection/ParkoszPWN/_14
+found thumbnail for: collection/ParkoszPWN
+created index.json for: collection/ParkoszPWN
+created manifest: collection/ParkoszPWN
+no metadata found for: collection
+found thumbnail for: collection/ParkoszJBC
+found thumbnail for: collection/ParkoszMF
+found thumbnail for: collection/ParkoszPWN
+no manifests.yml found for: collection
+created index.json for: collection
+created collection: collection
+finished biiifing collection
+[gh-pages 2246cdb] published
+ 8 files changed, 1058 insertions(+), 9 deletions(-)
+ create mode 100644 publish.log
+Username for 'https://github.com': jsbien
+Password for 'https://jsbien@github.com': 
+Enumerating objects: 26, done.
+Counting objects: 100% (26/26), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (14/14), 7.20 KiB | 1.44 MiB/s, done.
+Total 14 (delta 11), reused 0 (delta 0)
+remote: Resolving deltas: 100% (11/11), completed with 11 local objects.        
+To https://github.com/jsbien/Parkosz4IIIF.git
+   3a8898d..2246cdb  gh-pages -> gh-pages
+jsbien@VivoPC-D8:/mnt/MyBookT2/GitHub/Parkosz4IIIF$ 
